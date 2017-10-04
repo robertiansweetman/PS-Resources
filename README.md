@@ -8,5 +8,9 @@ https://devops-collective-inc.gitbooks.io/the-big-book-of-powershell-gotchas/
 http://www.latkin.org/blog/2012/07/08/using-enums-in-powershell/
 * NOTE: need to find a way of trying this out :P
 
+## function scope
+https://blogs.technet.microsoft.com/heyscriptingguy/2009/07/08/hey-scripting-guy-how-do-i-get-data-out-of-a-function/
+This is a super great explanation
+
 ## classes in Powershell
 * entry is pending!
