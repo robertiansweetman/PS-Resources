@@ -12,5 +12,8 @@ http://www.latkin.org/blog/2012/07/08/using-enums-in-powershell/
 https://blogs.technet.microsoft.com/heyscriptingguy/2009/07/08/hey-scripting-guy-how-do-i-get-data-out-of-a-function/
 This is a super great explanation
 
+## Error Handling
+http://community.idera.com/powershell/powertips/b/tips/posts/demystifying-error-handling
+Specifes the parts of an error as a PSCustomObject
 ## classes in Powershell
 * entry is pending!
